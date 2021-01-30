@@ -1,0 +1,7 @@
+D:\домашка\HomeWork_2\HomeWork_2\bin\Debug\HomeWork_2.exe.config
+D:\домашка\HomeWork_2\HomeWork_2\bin\Debug\HomeWork_2.exe
+D:\домашка\HomeWork_2\HomeWork_2\bin\Debug\HomeWork_2.pdb
+D:\домашка\HomeWork_2\HomeWork_2\obj\Debug\HomeWork_2.csprojAssemblyReference.cache
+D:\домашка\HomeWork_2\HomeWork_2\obj\Debug\HomeWork_2.csproj.CoreCompileInputs.cache
+D:\домашка\HomeWork_2\HomeWork_2\obj\Debug\HomeWork_2.exe
+D:\домашка\HomeWork_2\HomeWork_2\obj\Debug\HomeWork_2.pdb
